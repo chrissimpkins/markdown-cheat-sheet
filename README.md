@@ -1,6 +1,5 @@
-
 ## Description
-A cheat sheet for the Markdown syntax, written in Markdown...
+A cheat sheet for the Markdown syntax, written in Markdown with a dash of GitHub flavor...
 
 ## The Markdown Cheat Sheet
 [MD-cheat-sheet.md](https://github.com/chrissimpkins/markdown-cheat-sheet/blob/master/MD-cheat-sheet.md)
