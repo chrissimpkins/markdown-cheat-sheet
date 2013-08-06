@@ -21,8 +21,8 @@
 	- [Horizontal Rules](#horiz)
 
 # Typography
-<h3 id="heading">Headings <a href="#top"><i class="icon-circle-arrow-up"></i></a></h3>
-```plain Heading Markdown http://daringfireball.net/projects/markdown/syntax#header Gruber Docs
+<h3 id="heading">Headings <a href="#top">(top)</a></h3>
+```plain
 <h1> = # Header
 <h2> = ## Header
 <h3> = ### Header
@@ -31,26 +31,26 @@
 <h6> = ###### Header
 ```
 
-<h3 id="paragraph">Paragraphs <a href="#top"><i class="icon-circle-arrow-up"></i></a></h3>
-```plain Paragraph Markdown
+<h3 id="paragraph">Paragraphs <a href="#top">(top)</a></h3>
+```plain
 This is the first paragraph.
 
 And this is the second separated by a blank line.
 
 ```
 
-<h3 id="bold">Bold Text <a href="#top"><i class="icon-circle-arrow-up"></i></a></h3>
-```plain Bold Text Markdown
-In this sentence the word **bold** is tagged with &lt;strong&gt; tags.
+<h3 id="bold">Bold Text <a href="#top">(top)</a></h3>
+```plain
+In this sentence the word **bold** is tagged with <strong> tags.
 ```
 
-<h3 id="italic">Italicized Text <a href="#top"><i class="icon-circle-arrow-up"></i></a></h3>
-```plain Italicized Text
-In this sentence the word *italics* is tagged with &lt;em&gt; tags.
+<h3 id="italic">Italicized Text <a href="#top">(top)</a></h3>
+```plain
+In this sentence the word *italics* is tagged with <em> tags.
 ```
 
-<h3 id="blockquote">Blockquotes <a href="#top"><i class="icon-circle-arrow-up"></i></a></h3>
-```plain Blockquotes Markdown http://daringfireball.net/projects/markdown/syntax#blockquote Gruber Docs
+<h3 id="blockquote">Blockquotes <a href="#top">(top)</a></h3>
+```plain
 /***********************************
 * Standard Blockquote
 ***********************************/
@@ -67,8 +67,8 @@ In this sentence the word *italics* is tagged with &lt;em&gt; tags.
 > and I'm back out of the nest...
 ```
 
-<h3 id="list">Lists <a href="#top"><i class="icon-circle-arrow-up"></i></a></h3>
-```plain Lists Markdown http://daringfireball.net/projects/markdown/syntax#list Gruber Docs
+<h3 id="list">Lists <a href="#top">(top)</a></h3>
+```plain
 /***********************************
 * Unordered List
 ***********************************/
@@ -90,13 +90,13 @@ In this sentence the word *italics* is tagged with &lt;em&gt; tags.
 ```
 
 # Links
-<h3 id="inlinelink">Inline Link <a href="#top"><i class="icon-circle-arrow-up"></i></a></h3>
-```plain Inline Link Markdown
+<h3 id="inlinelink">Inline Link <a href="#top">(top)</a></h3>
+```plain
 This is a line with an [inline link to Google](http://www.google.com "Google").
 ```
 
-<h3 id="reflink">Reference Links <a href="#top"><i class="icon-circle-arrow-up"></i></a></h3>
-```plain Reference Links Markdown
+<h3 id="reflink">Reference Links <a href="#top">(top)</a></h3>
+```plain
 This line has reference links for [Google] [1] and [GitHub] [2].
 
 	[1]: http://www.google.com "Google"
@@ -104,21 +104,21 @@ This line has reference links for [Google] [1] and [GitHub] [2].
 ```
 
 # Tables
-<h3 id="table">Standard Table <a href="#top"><i class="icon-circle-arrow-up"></i></a></h3>
-```plain Standard Table Markdown
+<h3 id="table">Standard Table <a href="#top">(top)</a></h3>
+```plain
 | Header 1 | Header 2     |
 | -------- | ------------ |
 | Content  | More content |
 ```
 
 # Code
-<h3 id="inlinecode">Inline Code <a href="#top"><i class="icon-circle-arrow-up"></i></a></h3>
-```plain Inline Code Markdown
+<h3 id="inlinecode">Inline Code <a href="#top">(top)</a></h3>
+```plain
 Here is some inline `code` that will be formatted appropriately
 ```
 
-<h3 id="codeblock">Code Blocks <a href="#top"><i class="icon-circle-arrow-up"></i></a></h3>
-```plain Code Block Markdown
+<h3 id="codeblock">Code Blocks <a href="#top">(top)</a></h3>
+```plain
 /***********************************
 * Standard Code Block
 ***********************************/
@@ -139,25 +139,25 @@ Three ticks before and after the code block & specify language:
 ```
 
 # Images
-<h3 id="inlineimg">Inline Images <a href="#top"><i class="icon-circle-arrow-up"></i></a></h3>
-```plain Inline Image Markdown
+<h3 id="inlineimg">Inline Images <a href="#top">(top)</a></h3>
+```plain
 ![alt text](path/to/img.jpg "Title")
 ```
-<h3 id="refimg">Image References <a href="#top"><i class="icon-circle-arrow-up"></i></a></h3>
-```plain Image Reference Markdown
+<h3 id="refimg">Image References <a href="#top">(top)</a></h3>
+```plain
 ![alt text][id]
 
 	[id]: path/to/img.jpg "Title"
 ```
 
 # Other
-<h3 id="horiz">Horizontal Rules <a href="#top"><i class="icon-circle-arrow-up"></i></a></h3>
-```plain Horizontal Rule Markdown
+<h3 id="horiz">Horizontal Rules <a href="#top">(top)</a></h3>
+```plain
 - - -
 ```
 
-<h3 id="backslash">Backslash Escapes <a href="#top"><i class="icon-circle-arrow-up"></i></a></h3>
-```plain Backslash Escape Characters
+<h3 id="backslash">Backslash Escapes <a href="#top">(top)</a></h3>
+```plain
 \   backslash
 `   backtick
 *   asterisk
