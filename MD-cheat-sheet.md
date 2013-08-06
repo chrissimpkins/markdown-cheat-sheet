@@ -1,23 +1,23 @@
 <h1 id="top">Contents</h1>
-- <span style="font-size:22px;">Typography</span>
+- <h3>Typography</h3>
 	- [Headings](#headings-top)
 	- [Paragraphs](#paragraphs-top)
 	- [Bold Text](#bold-text-top)
 	- [Italicized Text](#italicized-text-top)
 	- [Block Quotes](#blockquotes-top)
 	- [Lists](#lists-top)
-- <span style="font-size:22px;">Links</span>
+- <h3>Links</h3>
 	- [Inline Links](#inline-link-top)
 	- [Reference Links](#reference-links-top)
-- <span style="font-size:22px;">Tables</span>
+- <h3>Tables</h3>
 	- [Standard Table](#standard-table-top)
-- <span style="font-size:22px;">Code</span>
+- <h3>Code</h3>
 	- [Inline Code](#inline-code-top)
 	- [Code Blocks](#code-blocks-top)
-- <span style="font-size:22px;">Images</span>
+- <h3>Images</h3>
 	- [Inline Images](#inline-images-top)
 	- [Image References](#image-references-top)
-- <span style="font-size:22px;">Other</span>
+- <h3>Other</h3>
 	- [Horizontal Rules](#horizontal-rules-top)
 	- [Backslash Escape Characters](#backslash-escape-characters-top)
 
