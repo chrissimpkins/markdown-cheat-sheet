@@ -1,24 +1,25 @@
 <h1 id="top">Contents</h1>
 - <span style="font-size:22px;">Typography</span>
-	- [Headings](#heading)
-	- [Paragraphs](#paragraph)
-	- [Bold Text](#bold)
-	- [Italicized Text](#italic)
-	- [Block Quotes](#blockquote)
-	- [Lists](#list)
+	- [Headings](#headings-top)
+	- [Paragraphs](#paragraphs-top)
+	- [Bold Text](#bold-text-top)
+	- [Italicized Text](#italicized-text-top)
+	- [Block Quotes](#blockquotes-top)
+	- [Lists](#lists-top)
 - <span style="font-size:22px;">Links</span>
-	- [Inline Links](#inlinelink)
-	- [Reference Links](#reflink)
+	- [Inline Links](#inline-link-top)
+	- [Reference Links](#reference-links-top)
 - <span style="font-size:22px;">Tables</span>
-	- [Standard Table](#table)
+	- [Standard Table](#standard-table-top)
 - <span style="font-size:22px;">Code</span>
-	- [Inline Code](#inlinecode)
-	- [Code Blocks](#codeblock)
+	- [Inline Code](#inline-code-top)
+	- [Code Blocks](#code-blocks-top)
 - <span style="font-size:22px;">Images</span>
-	- [Inline Images](#inlineimg)
-	- [Image References](#refimg)
+	- [Inline Images](#inline-images-top)
+	- [Image References](#image-references-top)
 - <span style="font-size:22px;">Other</span>
-	- [Horizontal Rules](#horiz)
+	- [Horizontal Rules](#horizontal-rules-top)
+	- [Backslash Escape Characters](#backslash-escape-characters-top)
 
 # Typography
 <h3 id="heading">Headings <a href="#top">(top)</a></h3>
