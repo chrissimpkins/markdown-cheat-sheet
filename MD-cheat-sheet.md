@@ -156,7 +156,7 @@ Three ticks before and after the code block & specify language:
 - - -
 ```
 
-<h3 id="backslash">Backslash Escapes <a href="#top">(top)</a></h3>
+<h3 id="backslash">Backslash Escape Characters <a href="#top">(top)</a></h3>
 ```plain
 \   backslash
 `   backtick
