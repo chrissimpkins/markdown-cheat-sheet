@@ -1,5 +1,6 @@
 ## Description
 A cheat sheet for the Markdown syntax, written in Markdown with a dash of GitHub flavor...
+via [Sweetmeat](http://sweetme.at/2013/08/05/markdown-cheat-sheet/)
 
 ## The Markdown Cheat Sheet
 [MD-cheat-sheet.md](https://github.com/chrissimpkins/markdown-cheat-sheet/blob/master/MD-cheat-sheet.md)
